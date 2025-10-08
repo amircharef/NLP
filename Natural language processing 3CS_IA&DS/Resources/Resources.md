@@ -1,0 +1,9 @@
+- [Speech and Language Processing (stanford.edu)](https://web.stanford.edu/~jurafsky/slp3/)
+- [Introduction to Natural Language Processing (mit.edu)](https://mitpress.mit.edu/9780262042840/introduction-to-natural-language-processing/)
+- [NLTK Book](https://www.nltk.org/book/)
+- [spaCy · Industrial-strength Natural Language Processing in Python](https://spacy.io/)
+- [[1810.04805] BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding (arxiv.org)](https://arxiv.org/abs/1810.04805)
+- [🤗 Transformers (huggingface.co)](https://huggingface.co/docs/transformers/index)
+- [Understanding LSTM Networks -- colah's blog](https://colah.github.io/posts/2015-08-Understanding-LSTMs/)
+- [[1706.03762] Attention Is All You Need (arxiv.org)](https://arxiv.org/abs/1706.03762)
+- 

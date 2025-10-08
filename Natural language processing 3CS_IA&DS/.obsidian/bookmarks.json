@@ -1,0 +1,323 @@
+{
+  "items": [
+    {
+      "type": "group",
+      "ctime": 1725818431252,
+      "items": [
+        {
+          "type": "group",
+          "ctime": 1725818431252,
+          "items": [
+            {
+              "type": "file",
+              "ctime": 1755216561252,
+              "path": "Presentation/Self Presentation.md",
+              "subpath": "#^-"
+            },
+            {
+              "type": "file",
+              "ctime": 1755216561252,
+              "path": "Presentation/About The Module.md",
+              "subpath": "#^-"
+            },
+            {
+              "type": "file",
+              "ctime": 1755216561252,
+              "path": "Presentation/What We Need.md",
+              "subpath": "#^-"
+            }
+          ],
+          "title": "Presentation"
+        },
+        {
+          "type": "group",
+          "ctime": 1725818510150,
+          "items": [
+            {
+              "type": "file",
+              "ctime": 1725890825059,
+              "path": "The Course/Program.md",
+              "subpath": "#^-"
+            },
+            {
+              "type": "group",
+              "ctime": 1725818972739,
+              "items": [
+                {
+                  "type": "group",
+                  "ctime": 1725819043145,
+                  "items": [],
+                  "title": "Program"
+                },
+                {
+                  "type": "file",
+                  "ctime": 1725890825059,
+                  "path": "The Course/Program.md",
+                  "subpath": "#^-"
+                },
+                {
+                  "type": "file",
+                  "ctime": 1725890825059,
+                  "path": "The Course/Chapter 01 - Introduction To NLP -/What is NLP.md",
+                  "subpath": "#^-"
+                },
+                {
+                  "type": "file",
+                  "ctime": 1726009627166,
+                  "path": "The Course/Chapter 01 - Introduction To NLP -/History of NLP.md",
+                  "subpath": "#^-"
+                },
+                {
+                  "type": "file",
+                  "ctime": 1726009627166,
+                  "path": "The Course/Chapter 01 - Introduction To NLP -/Components Of NLP.md",
+                  "subpath": "#^-"
+                }
+              ],
+              "title": "Chapter 01 - Introduction To NLP -"
+            },
+            {
+              "type": "group",
+              "ctime": 1726261100629,
+              "items": [
+                {
+                  "type": "file",
+                  "ctime": 1726261123187,
+                  "path": "The Course/Chapter 02 - Levels of Analysis -/Phases Of NLP.md",
+                  "subpath": "#^-"
+                },
+                {
+                  "type": "file",
+                  "ctime": 1726261123187,
+                  "path": "The Course/Chapter 02 - Levels of Analysis -/Lexical Analysis.md",
+                  "subpath": "#^-"
+                },
+                {
+                  "type": "file",
+                  "ctime": 1726270423907,
+                  "path": "The Course/Chapter 02 - Levels of Analysis -/Syntactic Analysis.md",
+                  "subpath": "#^-"
+                },
+                {
+                  "type": "file",
+                  "ctime": 1726270423907,
+                  "path": "The Course/Chapter 02 - Levels of Analysis -/Semantic Analysis.md",
+                  "subpath": "#^-"
+                }
+              ],
+              "title": "Chapter 02 - Levels of Analysis -"
+            },
+            {
+              "type": "group",
+              "ctime": 1726841566226,
+              "items": [
+                {
+                  "type": "file",
+                  "ctime": 1726841579995,
+                  "path": "The Course/Chapter 03 - Language Processing Approaches -/Introduction.md",
+                  "subpath": "#^-"
+                },
+                {
+                  "type": "file",
+                  "ctime": 1726841575671,
+                  "path": "The Course/Chapter 03 - Language Processing Approaches -/Formal Methods.md",
+                  "subpath": "#^-"
+                },
+                {
+                  "type": "file",
+                  "ctime": 1756996910824,
+                  "path": "The Course/Chapter 03 - Language Processing Approaches -/Formal Methods V2.md",
+                  "subpath": "#^-"
+                },
+                {
+                  "type": "file",
+                  "ctime": 1727561587318,
+                  "path": "Assets/Conditional Random Fields.png",
+                  "subpath": "#^-"
+                },
+                {
+                  "type": "file",
+                  "ctime": 1726867979835,
+                  "path": "The Course/Chapter 03 - Language Processing Approaches -/Statistical Methods.md",
+                  "subpath": "#^-"
+                },
+                {
+                  "type": "file",
+                  "ctime": 1756996910824,
+                  "path": "The Course/Chapter 03 - Language Processing Approaches -/Attention Mechanism - exp -.pptx",
+                  "subpath": "#^-"
+                },
+                {
+                  "type": "file",
+                  "ctime": 1756996910824,
+                  "path": "The Course/Chapter 03 - Language Processing Approaches -/Connectionist Approaches.md",
+                  "subpath": "#^-"
+                },
+                {
+                  "type": "file",
+                  "ctime": 1756996910824,
+                  "path": "The Course/Chapter 03 - Language Processing Approaches -/Positional Embeddings - exp -.pptx",
+                  "subpath": "#^-"
+                }
+              ],
+              "title": "Chapter 03 - Language Processing Approaches -"
+            }
+          ],
+          "title": "The Course"
+        },
+        {
+          "type": "group",
+          "ctime": 1725818920661,
+          "items": [],
+          "title": "Resources"
+        },
+        {
+          "type": "group",
+          "ctime": 1727561176162,
+          "items": [
+            {
+              "type": "file",
+              "ctime": 1727561213245,
+              "path": "Assets/NLP.png",
+              "subpath": "#^-"
+            },
+            {
+              "type": "file",
+              "ctime": 1727561213245,
+              "path": "Assets/NLP it not easy.png",
+              "subpath": "#^-"
+            },
+            {
+              "type": "file",
+              "ctime": 1727561213245,
+              "path": "Assets/History of NLP.png",
+              "subpath": "#^-"
+            },
+            {
+              "type": "file",
+              "ctime": 1727561213245,
+              "path": "Assets/NLP Components.jpg",
+              "subpath": "#^-"
+            },
+            {
+              "type": "file",
+              "ctime": 1727561213245,
+              "path": "Assets/NLP Tasks.png",
+              "subpath": "#^-"
+            },
+            {
+              "type": "file",
+              "ctime": 1727561213245,
+              "path": "Assets/Phases Of NLP.jpg",
+              "subpath": "#^-"
+            },
+            {
+              "type": "file",
+              "ctime": 1728242156547,
+              "path": "Assets/Stemming vs Lemmatization.avif",
+              "subpath": "#^-"
+            },
+            {
+              "type": "file",
+              "ctime": 1728242484413,
+              "path": "Assets/Stemming-vs-Lemmatization.jpg",
+              "subpath": "#^-"
+            },
+            {
+              "type": "file",
+              "ctime": 1728242615488,
+              "path": "Assets/Stemming vs Lemmatization02.png",
+              "subpath": "#^-"
+            },
+            {
+              "type": "file",
+              "ctime": 1727561213245,
+              "path": "Assets/Part-of-Speech Tagging.jpg",
+              "subpath": "#^-"
+            },
+            {
+              "type": "file",
+              "ctime": 1727561213245,
+              "path": "Assets/Dependency Parsing.jpg",
+              "subpath": "#^-"
+            },
+            {
+              "type": "file",
+              "ctime": 1727561213245,
+              "path": "Assets/Named-Entity-Recognition.jpg",
+              "subpath": "#^-"
+            },
+            {
+              "type": "file",
+              "ctime": 1727561213245,
+              "path": "Assets/Coreference Resolution.png",
+              "subpath": "#^-"
+            },
+            {
+              "type": "file",
+              "ctime": 1726841566226,
+              "path": "Assets/Dependency Grammars.png",
+              "subpath": "#^-"
+            },
+            {
+              "type": "file",
+              "ctime": 1727561176162,
+              "path": "Assets/Dependency Grammars examples.png",
+              "subpath": "#^-"
+            },
+            {
+              "type": "file",
+              "ctime": 1726844755254,
+              "path": "Assets/example of Chart Parsing.canvas",
+              "subpath": "#^-"
+            },
+            {
+              "type": "file",
+              "ctime": 1726844783485,
+              "path": "Assets/Deterministic Finite Automata.png",
+              "subpath": "#^-"
+            },
+            {
+              "type": "file",
+              "ctime": 1726859661784,
+              "path": "Assets/Non-Deterministic Finite Automata.png",
+              "subpath": "#^-"
+            },
+            {
+              "type": "file",
+              "ctime": 1726859661784,
+              "path": "Assets/Finite State Transducers.canvas",
+              "subpath": "#^-"
+            },
+            {
+              "type": "file",
+              "ctime": 1726859648024,
+              "path": "Assets/Finite State Transducers exp02.png",
+              "subpath": "#^-"
+            },
+            {
+              "type": "file",
+              "ctime": 1726867979835,
+              "path": "Assets/Hidden Markov Models.png",
+              "subpath": "#^-"
+            },
+            {
+              "type": "file",
+              "ctime": 1727561587318,
+              "path": "Assets/Conditional Random Fields.png",
+              "subpath": "#^-"
+            },
+            {
+              "type": "file",
+              "ctime": 1727561213245,
+              "path": "Assets/Results.jpg",
+              "subpath": "#^-"
+            }
+          ],
+          "title": "Assets"
+        }
+      ],
+      "title": "sortspec"
+    }
+  ]
+}

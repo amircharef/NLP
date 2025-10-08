@@ -1,0 +1,274 @@
+{
+  "main": {
+    "id": "4b2f70d09c6154a8",
+    "type": "split",
+    "children": [
+      {
+        "id": "c621af808d020be6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "25993f1e9576c225",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "The Course/Program.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "Program"
+            }
+          },
+          {
+            "id": "6ce624adab12169f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "The Course/Chapter 01 - Introduction To NLP -/Overview of NLP Tasks.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Overview of NLP Tasks"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "34b2ab5c8386cdb7",
+    "type": "split",
+    "children": [
+      {
+        "id": "898fb8e1cb7faf0a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fc6572714ef50dc1",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "53f9eabe1e7827ae",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "f89239298c3854ec",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "c347259b3c8ba6d0",
+    "type": "split",
+    "children": [
+      {
+        "id": "c129a7e67981b402",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c6a1c2d781b4af00",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "The Course/Chapter 03 - Language Processing Approaches -/Formal Methods.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Formal Methods"
+            }
+          },
+          {
+            "id": "6b4f2799c2740ed7",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "e2a0601977c7c81f",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "The Course/Chapter 02 - Levels of Analysis -/Syntactic Analysis.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Syntactic Analysis"
+            }
+          },
+          {
+            "id": "a2979179966425cc",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "advanced-tables-toolbar"
+            }
+          },
+          {
+            "id": "d88d83bbbd1dfc32",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "The Course/Chapter 03 - Language Processing Approaches -/Formal Methods.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Formal Methods"
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "bases:Create new base": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "audio-recorder:Start/stop recording": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "custom-sort:Toggle custom sorting": false,
+      "callout-manager:Insert Callout": false
+    }
+  },
+  "active": "6ce624adab12169f",
+  "lastOpenFiles": [
+    "The Course/Chapter 01 - Introduction To NLP -/Components Of NLP.md",
+    "The Course/Chapter 01 - Introduction To NLP -/History of NLP.md",
+    "The Course/Chapter 01 - Introduction To NLP -/What is NLP.md",
+    "The Course/Chapter 02 - Levels of Analysis -/Syntactic Analysis.md",
+    "The Course/Chapter 02 - Levels of Analysis -/Discourse Analysis.md",
+    "The Course/Chapter 02 - Levels of Analysis -/Lexical Analysis.md",
+    "The Course/Chapter 02 - Levels of Analysis -/Phases Of NLP.md",
+    "The Course/Program.md",
+    "Assets/Dependency Parsing.jpg",
+    "The Course/Chapter 02 - Levels of Analysis -/Semantic Analysis.md",
+    "Assets/Part-of-Speech Tagging.jpg",
+    "The Course/Chapter 01 - Introduction To NLP -/Overview of NLP Tasks.md",
+    "Presentation/What We Need.md",
+    "The Course/Chapter 03 - Language Processing Approaches -/Formal Methods V2.md",
+    "The Course/Chapter 03 - Language Processing Approaches -/Formal Methods.md",
+    "The Course/Chapter 02 - Levels of Analysis -/Pragmatic Analysis.md",
+    "Presentation/About The Module.md",
+    "Presentation/Self Presentation.md",
+    "Assets/Non-Deterministic Finite Automata.png",
+    "The Course/Chapter 03 - Language Processing Approaches -/Introduction.md",
+    "Assets/NLP Components.jpg",
+    "The Course/Chapter 03 - Language Processing Approaches -/Statistical Methods.md",
+    "Chapter 05 - Generative AI/Large Language Models (LLMs).md",
+    "The Course/Chapter 04 - NLP Applications/Information Retrieval and Extraction.md",
+    "Chapter 05 - Generative AI",
+    "The Course/Chapter 03 - Language Processing Approaches -/Connectionist Approaches.md",
+    "Assets/example of Chart Parsing.canvas",
+    "EMD/EMD Principal/~WRL0907.tmp",
+    "EMD/EMD Principal/~WRD0887.tmp",
+    "EMD/EMD Principal/~WRL0004.tmp",
+    "EMD/EMD Principal/~WRD0003.tmp",
+    "EMD/EMD Principal/~WRD0002.tmp",
+    "EMD/EMD France/~WRL2448.tmp",
+    "EMD/EMD France/~WRD2440.tmp",
+    "EMD/EMD France/~WRL0005.tmp",
+    "EMD/EMD France/~WRD0004.tmp",
+    "Assets/Transformers.jpg",
+    "Untitled.canvas",
+    "Assets/Finite State Transducers.canvas",
+    "Assets/Conditional Random Fields.png",
+    "Assets/Stemming vs Lemmatization02.png",
+    "Assets/Coreference Resolution.png",
+    "Assets/Stemming-vs-Lemmatization.jpg",
+    "Assets/Stemming vs Lemmatization.avif",
+    "The Course/Chapter 03 - Language Processing Approaches -/Finite State Transducers.md",
+    "Resources/Untitled.md",
+    "TP/TPs.md",
+    "Untitled 1.canvas",
+    "2024-09-08.md"
+  ]
+}
