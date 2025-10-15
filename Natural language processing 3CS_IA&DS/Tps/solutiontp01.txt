@@ -1,0 +1,32 @@
+Exercice 02 : 
+Q1 - list all the steps to make a processing on given text datasets : 
+
+Data Acquisition
+Text Cleaning
+Tokenization
+Normalization (Lowercasing, removing punctuation, etc.)
+Stop Word Removal
+Stemming or Lemmatization
+Part-of-Speech (POS) Tagging
+Named Entity Recognition (NER)
+Syntactic Parsing (Dependency Parsing)
+Vectorization / Feature Extraction
+Modeling / Machine Learning
+Evaluation & Deployment
+
+Q2 - What are the modules or Libraries responsible for each step?
+
+Step	                |               Associated Libraries / Tools
+
+1. Data Acquisition	    |   requests, BeautifulSoup, scrapy, tweepy, datasets (Hugging Face)
+2. Text Cleaning	    |   re (regex), string, nltk, spaCy
+3. Tokenization	        |   nltk, spaCy, TextBlob, transformers
+4. Normalization	    |   nltk, spaCy, re, string
+5. Stop Word Removal	|   nltk, spaCy, sklearn
+6. Stemming/Lemmatization|nltk (PorterStemmer, LancasterStemmer), spaCy (lemmatization)
+7. POS Tagging	        |   nltk, spaCy, TextBlob
+8. Named Entity Recognition|spaCy, nltk, transformers (BERT, etc.), stanza
+9. Syntactic Parsing	|   spaCy, nltk, stanza
+10. Vectorization / Feature Extraction |sklearn (TfidfVectorizer, CountVectorizer), gensim (Word2Vec, Doc2Vec), spaCy
+11. Modeling / Machine Learning	|   sklearn, tensorflow, pytorch, transformers
+12. Evaluation & Deployment	    |   sklearn (metrics), streamlit, flask, fastapi
